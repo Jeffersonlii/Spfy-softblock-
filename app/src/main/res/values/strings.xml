@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">softblocker</string>
     <string name="title_activity_main">activity_main</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="default_notification_channel_title" translatable="false">fcm_default_title</string>
+
 </resources>
